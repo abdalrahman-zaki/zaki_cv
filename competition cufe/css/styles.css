@@ -1,0 +1,29 @@
+.full_page{
+    margin: 5px;
+    width: 95%;
+    height: 800px;
+    font-size: 17px;
+    margin-left: 5%px;
+    border-style: solid;
+    border-radius:2px ;
+    border-width: .25px;
+}
+.first_space{
+    height: 50px;
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0;
+    border-bottom: 2px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.general_data {
+    margin-left: 15px;
+}
+.some_personal_information{
+    color: rgb(236, 138, 9);
+}
+.achievments{
+    color:rgb(0, 155, 39);
+}
